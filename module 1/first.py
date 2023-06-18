@@ -1,0 +1,8 @@
+x = int(1)
+y = int(2.8)
+z = int("2")
+i = complex(3)
+print(x)
+print(y)
+print(z)
+print(i)
